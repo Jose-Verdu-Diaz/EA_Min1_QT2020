@@ -1,0 +1,16 @@
+.top-menu {
+    background: #6d6a74;
+    color: rgb(20, 19, 29);
+}
+
+.logo {
+  max-height: 55px;
+}
+
+.container{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background: rgb(20, 19, 29);
+}
